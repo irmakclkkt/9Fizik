@@ -24,8 +24,8 @@ Irmak ÇELİKKUT
 + Diğer taraftan da ayırdığınız kek karışımını ve sütü karıştırıp kaynatın.
 + Keki fırından çıkarınca bir süre dinlendirip üzerine sosu dökün.
 + Dilerseniz üzerini fındık veya Antep fıstığıyla süsleyerek servis edebilirsiniz.
----
-                      **Afiyet olsun :))**
+
+                      Afiyet olsun :))
 # Vücut Kitle İndeksi
 | Bireyler            | Annem  | Babam  | Kardeşim |
 |---------------------|--------|--------|----------|
