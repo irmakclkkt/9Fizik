@@ -50,7 +50,21 @@ Irmak ÇELİKKUT
 + If you wish, you can serve it with pistachio or hazelnut.
 
                                Enjoy your meal :)) 
-![](https://www.google.com/search?q=%C4%B1slak+kek&sxsrf=ALeKk01NIsbWH7eAaMllyVsPG-pLRBU1Qg:1586082523374&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjKjY_ridHoAhWn0KYKHWDoC4IQ_AUoAnoECAwQBA&biw=1366&bih=625#imgrc=y2uQ3fyUIeSHxM)
+![Brownie](https://im.haberturk.com/2019/09/19/ver1568877601/kakaolu-islak-kek-tarifi-nasil-yapilir_2523454_810x458.jpg)
+## How many calories are there in 100 grams of cake?
+| Ingredient                | Amount(g) | Calori(cal) |
+|---------------------------|-----------|-------------|
+| 3 eggs                    | 150       | 215         |
+| 1 glass of oil            | 400       | 1800        |
+| 2 cups of flour           | 220       | 800         |
+| 1,5 cups of sugar         | 215       | 830         |
+| 1 packet of baking powder | 10        | 20          |
+| 1 packet of vanilla       | 10        | 40          |
+| Cacao                     | 25        | 85          |
+| Half a cup of milk        | 100       | 60          |
+| Brownie                   | 1130      | 5830        |
+| Brownie                   | 100       | 515         |
+
 # Vücut Kitle İndeksi
 | Bireyler            | Annem  | Babam  | Kardeşim |
 |---------------------|--------|--------|----------|
