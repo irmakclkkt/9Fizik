@@ -1,7 +1,19 @@
 # 9 Fizik
-Irmak Çelikkut  
-175'A  
+Irmak ÇELİKKUT  
+175'A   
 122
+# Islak Kek Nasıl Yapılır?
+## Malzemeler
++ 3 adet yumurta
++ 1 su bardağı sıvı yağ
++ 2 su bardağı un
++ 1,5 su bardağı şeker
++ 1 paket kabartma tozu
++ 1 paket vanilya
++ Kakao
+### Sosu için:
++ Yarım su bardağı süt
++ 1 su bardağı kek karışım
 # Vücut Kitle İndeksi
 | Bireyler            | Annem  | Babam  | Kardeşim |
 |---------------------|--------|--------|----------|
