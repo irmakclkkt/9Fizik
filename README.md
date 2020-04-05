@@ -14,7 +14,7 @@ Irmak ÇELİKKUT
 ### Sosu için:
 + Yarım su bardağı süt
 + 1 su bardağı kek karışım
-## Yapılışı
+## Tarifi
 + Yumurta ve şekeri derin bir kasede iyice karıştırın.
 + Üzerine süt, sıvı yağ ve kakaoyu ekleyip karıştırmaya devam edin.
 + Hazırladığınız karışımdan, daha sonra sos olarak kullanmak için 1 su bardağı ayırın.
@@ -24,8 +24,32 @@ Irmak ÇELİKKUT
 + Diğer taraftan da ayırdığınız kek karışımını ve sütü karıştırıp kaynatın.
 + Keki fırından çıkarınca bir süre dinlendirip üzerine sosu dökün.
 + Dilerseniz üzerini fındık veya Antep fıstığıyla süsleyerek servis edebilirsiniz.
+ 
+                               Afiyet olsun :))
+# How to Make a Brownie?
+## Ingredients
++ 3 eggs
++ 1 glass of oil
++ 2 cups of flour
++ 1,5 cups of sugar
++ 1 packet of baking powder
++ 1 packet of vanilla
++ Cacao
+### For the sauce:
++ half a cup of milk
++ 1 glass of cake mixture
+## Recipe
++ Mix eggs and sugar in a large bowl.
++ Add milk, oil, cacao and keep mixing.
++ Take 1 cup of mixture to use as a sauce later.
++ Pour flour, baking powder and vanilla to the remaining mixture.
++ Mix all ingredients and pour mixture on baking tray.
++ Then bake at 170 degrees for about 30-40 minutes.
++ Mix the mixture you have taken and milk, boil them.
++ When the cake is cooked, take it from the oven and wait a few minutes and pour the sauce over the cake.
++ If you wish, you can serve it with pistachio or hazelnut.
 
-                      Afiyet olsun :))
+                               Enjoy your meal :))                
 # Vücut Kitle İndeksi
 | Bireyler            | Annem  | Babam  | Kardeşim |
 |---------------------|--------|--------|----------|
